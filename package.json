@@ -5,7 +5,7 @@
   "author": "max ogden",
   "license": "ISC",
   "scripts": {
-    "test": "atom-shell ./app/"
+    "start": "atom-shell ./app/"
   },
   "dependencies": {
     "ecstatic": "^0.5.7",

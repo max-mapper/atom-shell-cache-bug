@@ -24,6 +24,5 @@ app.on('ready', function() {
     })
 
     win.loadUrl("http://localhost:8765")
-    win.reloadIgnoringCache()
   })
 })
