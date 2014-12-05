@@ -1,0 +1,14 @@
+{
+  "name": "atom-shell-cache-bug",
+  "version": "1.0.0",
+  "description": "",
+  "author": "max ogden",
+  "license": "ISC",
+  "scripts": {
+    "test": "atom-shell ./app/"
+  },
+  "dependencies": {
+    "ecstatic": "^0.5.7",
+    "atom-shell": "1.2.0"
+  }
+}
